@@ -5,8 +5,8 @@ import { Gradient } from "./components/Gradient";
 function App() {
   return (
     <>
-    Hello
-    <Gradient />
+  
+    {/* <Gradient /> */}
     <AspectRatio />
     </>
   );
